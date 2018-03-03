@@ -1,3 +1,7 @@
+library(ggplot2)
+library(plotly)
+
+
 #Import Final datasets for Batsmen and Bowlers with ratings
 data1 <- read_csv("Z:/IPL/final1/part-00000-5f222092-0c29-489f-ac64-224bd7014889-c000.csv")
 
