@@ -1,0 +1,455 @@
+"","Player","wicket","runs","DOB","Batting_Hand","Bowling_Skill","Country","Match","Avg","Wicket_per","BatsmenRating","BowlersRating"
+"1","R Dhawan",18,153,"19-Feb-90","Right_Hand","Right-arm medium-fast","India",26,5.88461538461539,0.692307692307692,1,2
+"2","WD Parnell",21,63,"30-Jul-89","Left_Hand","Left-arm medium-fast","South Africa",26,2.42307692307692,0.807692307692308,1,3
+"3","DB Ravi Teja",1,375,"5-Sep-87","Right_Hand","Legbreak googly","India",32,11.71875,0.03125,2,1
+"4","RA Jadeja",59,1574,"6-Dec-88","Left_Hand","Slow left-arm orthodox","India",138,11.4057971014493,0.427536231884058,2,2
+"5","AC Thomas",11,20,"9-Feb-77","Right_Hand","Right-arm fast-medium","England",15,1.33333333333333,0.733333333333333,1,2
+"6","JD Ryder",7,604,"6-Aug-84","Left_Hand","Right-arm medium","New Zealand",29,20.8275862068966,0.241379310344828,4,1
+"7","BJ Rohrer",0,193,"26-Mar-81","Left_Hand","NULL","Australia",8,24.125,0,4,1
+"8","J Botha",14,409,"2-May-82","Right_Hand","Right-arm offbreak","South Africa",34,12.0294117647059,0.411764705882353,2,2
+"9","S Anirudha",0,136,"14-Apr-87","Right_Hand","NULL","India",20,6.8,0,1,1
+"10","SW Billings",0,88,"15-Jun-91","Right_Hand","NULL","England",11,8,0,2,1
+"11","MJ Clarke",0,98,"2-Apr-81","Right_Hand","Slow left-arm orthodox","Australia",6,16.3333333333333,0,3,1
+"12","AC Voges",0,181,"4-Oct-79","Right_Hand","Slow left-arm orthodox","Australia",9,20.1111111111111,0,3,1
+"13","J Suchith",10,48,"16-Jan-94","Left_Hand","Slow left-arm orthodox","India",14,3.42857142857143,0.714285714285714,1,2
+"14","S Nadeem",17,24,"12-Aug-89","Right_Hand","Slow left-arm orthodox","India",55,0.436363636363636,0.309090909090909,1,1
+"15","CM Gautam",0,169,"8-Mar-86","Right_Hand","NULL","India",13,13,0,2,1
+"16","HH Pandya",4,156,"11-Oct-93","Right_Hand","Right-arm medium-fast","India",37,4.21621621621622,0.108108108108108,1,1
+"17","VR Aaron",23,42,"29-Oct-89","Right_Hand","Right-arm fast","India",42,1,0.547619047619048,1,2
+"18","UA Birla",0,7,"17-Nov-89","Right_Hand","Right-arm medium","India",2,3.5,0,1,1
+"19","B Sumanth",0,35,"10-May-88","Right_Hand","Right-arm medium-fast","India",5,7,0,2,1
+"20","BCJ Cutting",6,73,"30-Jan-87","Right_Hand","Right-arm fast-medium","Australia",9,8.11111111111111,0.666666666666667,2,2
+"21","RR Raje",6,20,"3-Sep-86","Right_Hand","Right-arm fast-medium","India",10,2,0.6,1,2
+"22","AN Ghosh",0,7,"19-Oct-86","Right_Hand","Right-arm medium","India",2,3.5,0,1,1
+"23","Harmeet Singh",19,18,"7-Sep-92","Left_Hand","Slow left-arm orthodox","India",28,0.642857142857143,0.678571428571429,1,2
+"24","Umar Gul",12,39,"14-Apr-84","Right_Hand","Right-arm fast-medium","Pakistan",6,6.5,2,1,5
+"25","YS Chahal",56,2,"23-Jul-90","Right_Hand","Legbreak googly","India",56,0.0357142857142857,1,1,3
+"26","Azhar Mahmood",7,388,"28-Feb-75","Right_Hand","Right-arm fast-medium","Pakistan",23,16.8695652173913,0.304347826086957,3,1
+"27","R Tewatia",3,16,"20-May-93","Left_Hand","Legbreak","India",7,2.28571428571429,0.428571428571429,1,2
+"28","P Negi",7,209,"6-Jan-93","Left_Hand","Slow left-arm orthodox","India",41,5.09756097560976,0.170731707317073,1,1
+"29","SC Ganguly",8,1349,"8-Jul-72","Left_Hand","Right-arm medium","India",59,22.864406779661,0.135593220338983,4,1
+"30","AA Chavan",1,12,"28-Oct-85","Left_Hand","Slow left-arm orthodox","India",13,0.923076923076923,0.0769230769230769,1,1
+"31","MP Stoinis",8,146,"16-Aug-89","Right_Hand","Right-arm medium","Australia",12,12.1666666666667,0.666666666666667,2,2
+"32","RP Singh",74,52,"6-Dec-85","Right_Hand","Left-arm fast-medium","India",82,0.634146341463415,0.902439024390244,1,3
+"33","CK Langeveldt",13,8,"17-Dec-74","Right_Hand","Right-arm fast-medium","England",7,1.14285714285714,1.85714285714286,1,5
+"34","DJ Jacobs",0,92,"4-Nov-82","Right_Hand","Right-arm medium","South Africa",7,13.1428571428571,0,2,1
+"35","PJ Sangwan",29,22,"5-Nov-90","Right_Hand","Left-arm medium","India",38,0.578947368421053,0.763157894736842,1,2
+"36","MS Dhoni",0,3270,"7-Jul-81","Right_Hand","Right-arm medium","India",159,20.5660377358491,0,3,1
+"37","KC Cariappa",4,13,"13-Apr-94","Right_Hand","Legbreak","India",10,1.3,0.4,1,1
+"38","V Pratap Singh",0,0,"3-May-92","Right_Hand","Right-arm medium","India",9,0,0,1,1
+"39","TR Birt",0,75,"9-Dec-81","Left_Hand","Right-arm medium","Australia",5,15,0,3,1
+"40","Harpreet Singh",0,20,"11-Aug-91","Left_Hand","Right-arm medium","India",4,5,0,1,1
+"41","C Nanda",2,0,"29-Mar-79","Right_Hand","Legbreak","India",3,0,0.666666666666667,1,2
+"42","FY Fazal",0,183,"7-Sep-85","Left_Hand","Right-arm medium","India",12,15.25,0,3,1
+"43","Shoaib Akhtar",5,2,"13-Aug-75","Right_Hand","Right-arm fast","Pakistan",3,0.666666666666667,1.66666666666667,1,5
+"44","Imran Tahir",29,18,"27-Mar-79","Right_Hand","Legbreak googly","India",32,0.5625,0.90625,1,3
+"45","AUK Pathan",0,39,"17-Jun-84","Right_Hand","Right-arm medium","India",8,4.875,0,1,1
+"46","R McLaren",11,159,"9-Feb-83","Left_Hand","Right-arm medium-fast","South Africa",18,8.83333333333333,0.611111111111111,2,2
+"47","Shivam Sharma",4,5,"9-Sep-93","Right_Hand","Right-arm offbreak","India",5,1,0.8,1,2
+"48","Yuvraj Singh",30,2339,"12-Dec-81","Left_Hand","Slow left-arm orthodox","India",120,19.4916666666667,0.25,3,1
+"49","P Sahu",3,19,"21-Aug-85","Right_Hand","Legbreak googly","India",5,3.8,0.6,1,2
+"50","AD Nath",0,20,"10-May-93","Right_Hand","Right-arm medium-fast","India",5,4,0,1,1
+"51","CA Lynn",0,89,"10-Apr-90","Right_Hand","Slow left-arm orthodox","Australia",12,7.41666666666667,0,2,1
+"52","KD Karthik",0,2542,"1-Jun-85","Right_Hand","NULL","India",152,16.7236842105263,0,3,1
+"53","K Goel",0,218,"24-Dec-86","Left_Hand","Right-arm offbreak","India",22,9.90909090909091,0,2,1
+"54","Karanveer Singh",12,12,"8-Nov-87","Right_Hand","Legbreak googly","India",9,1.33333333333333,1.33333333333333,1,4
+"55","MJ McClenaghan",35,47,"11-Jun-86","Left_Hand","Left-arm fast-medium","New Zealand",40,1.175,0.875,1,3
+"56","X Thalaivan Sargunam",0,10,"15-May-85","Right_Hand","Right-arm offbreak","India",1,10,0,2,1
+"57","KL Rahul",0,725,"18-Apr-92","Right_Hand","NULL","India",39,18.5897435897436,0,3,1
+"58","MC Juneja",0,125,"12-Sep-90","Right_Hand","Right-arm offbreak","India",7,17.8571428571429,0,3,1
+"59","Jaskaran Singh",6,8,"4-Sep-89","Right_Hand","Right-arm medium","India",8,1,0.75,1,2
+"60","M Kartik",25,113,"11-Sep-76","Left_Hand","Slow left-arm orthodox","India",56,2.01785714285714,0.446428571428571,1,2
+"61","Kamran Khan",10,3,"10-Mar-91","Left_Hand","Left-arm medium-fast","India",9,0.333333333333333,1.11111111111111,1,3
+"62","LPC Silva",0,40,"14-Dec-79","Right_Hand","Legbreak","Sri Lanka",3,13.3333333333333,0,2,1
+"63","AB McDonald",5,123,"5-Jun-81","Right_Hand","Right-arm fast-medium","Australia",11,11.1818181818182,0.454545454545455,2,2
+"64","Misbah-ul-Haq",0,117,"28-May-74","Right_Hand","Legbreak","Pakistan",8,14.625,0,3,1
+"65","MD Mishra",0,237,"9-Feb-84","Right_Hand","Right-arm offbreak","India",18,13.1666666666667,0,2,1
+"66","AR Patel",43,379,"20-Jan-94","Left_Hand","Slow left-arm orthodox","India",59,6.42372881355932,0.728813559322034,1,2
+"67","GH Vihari",0,280,"13-Oct-93","Right_Hand","Right-arm offbreak","India",22,12.7272727272727,0,2,1
+"68","SA Yadav",0,503,"14-Sep-90","Right_Hand","Right-arm offbreak","India",55,9.14545454545454,0,2,1
+"69","Mohammad Hafeez",2,64,"17-Oct-80","Right_Hand","Right-arm offbreak","Pakistan",8,8,0.25,2,1
+"70","AB Agarkar",26,179,"4-Dec-77","Right_Hand","Right-arm fast","India",42,4.26190476190476,0.619047619047619,1,2
+"71","YA Abdulla",15,0,"17-Jan-83","Left_Hand","Left-arm fast-medium","India",11,0,1.36363636363636,1,4
+"72","K Upadhyay",0,12,"18-Jun-86","Right_Hand","Right-arm medium","India",3,4,0,1,1
+"73","P Parameswaran",4,1,"30-May-85","Right_Hand","Left-arm medium","India",8,0.125,0.5,1,2
+"74","DH Yagnik",0,170,"22-Jun-83","Left_Hand","NULL","India",25,6.8,0,1,1
+"75","M Rawat",0,55,"25-Oct-85","Right_Hand","NULL","India",18,3.05555555555556,0,1,1
+"76","DA Miller",0,1480,"10-Jun-89","Left_Hand","Right-arm offbreak","South Africa",66,22.4242424242424,0,4,1
+"77","BJ Hodge",16,1400,"29-Dec-74","Right_Hand","Right-arm offbreak","Australia",66,21.2121212121212,0.242424242424242,4,1
+"78","RT Ponting",0,91,"19-Dec-74","Right_Hand","Right-arm medium","Australia",10,9.1,0,2,1
+"79","SK Warne",57,198,"13-Sep-69","Right_Hand","Legbreak googly","Australia",55,3.6,1.03636363636364,1,3
+"80","NS Naik",0,23,"9-Nov-94","Right_Hand","NULL","India",2,11.5,0,2,1
+"81","BW Hilfenhaus",8,0,"15-Mar-83","Right_Hand","Right-arm fast-medium","Australia",17,0,0.470588235294118,1,2
+"82","M Kaif",0,259,"1-Dec-80","Right_Hand","Right-arm offbreak","India",29,8.93103448275862,0,2,1
+"83","A Zampa",12,0,"31-Mar-92","Right_Hand","Legbreak googly","Australia",11,0,1.09090909090909,1,3
+"84","AL Menaria",2,401,"29-Oct-90","Left_Hand","Slow left-arm orthodox","India",29,13.8275862068966,0.0689655172413793,2,1
+"85","SS Tiwary",0,1218,"30-Dec-89","Left_Hand","NULL","India",81,15.037037037037,0,3,1
+"86","A Symonds",20,974,"9-Jun-75","Right_Hand","Right-arm offbreak","Australia",39,24.974358974359,0.512820512820513,4,2
+"87","CH Gayle",18,3447,"21-Sep-79","Left_Hand","Right-arm offbreak","West Indies",101,34.1287128712871,0.178217821782178,5,1
+"88","KB Arun Karthik",0,51,"15-Feb-86","Right_Hand","Legbreak googly","India",17,3,0,1,1
+"89","WP Saha",0,1323,"24-Oct-84","Right_Hand","NULL","India",104,12.7211538461538,0,2,1
+"90","HV Patel",22,47,"23-Nov-90","Right_Hand","Right-arm medium","India",36,1.30555555555556,0.611111111111111,1,2
+"91","RG Sharma",15,3874,"30-Apr-87","Right_Hand","Right-arm offbreak","India",159,24.3647798742138,0.0943396226415094,4,1
+"92","MJ Guptill",0,57,"30-Sep-86","Right_Hand","Right-arm offbreak","New Zealand",10,5.7,0,1,1
+"93","MEK Hussey",0,1977,"27-May-75","Left_Hand","Right-arm medium","Australia",59,33.5084745762712,0,5,1
+"94","MG Johnson",46,131,"2-Nov-81","Left_Hand","Left-arm fast","Australia",48,2.72916666666667,0.958333333333333,1,3
+"95","SS Iyer",0,469,"6-Dec-94","Right_Hand","Legbreak googly","India",32,14.65625,0,3,1
+"96","S Sriram",0,31,"21-Feb-76","Left_Hand","Slow left-arm orthodox","India",2,15.5,0,3,1
+"97","MA Starc",34,96,"30-Jan-90","Left_Hand","Left-arm fast","Australia",27,3.55555555555556,1.25925925925926,1,4
+"98","AM Rahane",1,2675,"6-Jun-88","Right_Hand","Right-arm medium","India",111,24.0990990990991,0.00900900900900901,4,1
+"99","S Ladda",5,0,"10-Jul-86","Right_Hand","Legbreak","India",9,0,0.555555555555556,1,2
+"100","P Awana",17,5,"19-Jul-86","Right_Hand","Right-arm medium","India",33,0.151515151515152,0.515151515151515,1,2
+"101","R Bhatia",52,326,"22-Oct-79","Right_Hand","Right-arm medium-fast","India",95,3.43157894736842,0.547368421052632,1,2
+"102","DAJ Bracewell",0,12,"28-Sep-90","Right_Hand","Right-arm fast-medium","New Zealand",1,12,0,2,1
+"103","KS Williamson",0,155,"8-Aug-90","Right_Hand","Right-arm offbreak","New Zealand",15,10.3333333333333,0,2,1
+"104","EJG Morgan",0,789,"10-Sep-86","Left_Hand","Right-arm medium","England",52,15.1730769230769,0,3,1
+"105","Y Venugopal Rao",6,985,"26-Feb-82","Right_Hand","Right-arm offbreak","India",65,15.1538461538462,0.0923076923076923,3,1
+"106","AB de Villiers",0,3270,"17-Feb-84","Right_Hand","Right-arm medium","South Africa",129,25.3488372093023,0,4,1
+"107","SK Raina",22,4106,"27-Nov-86","Left_Hand","Right-arm offbreak","India",161,25.5031055900621,0.136645962732919,4,1
+"108","DW Steyn",66,166,"27-Jun-83","Right_Hand","Right-arm fast","South Africa",90,1.84444444444444,0.733333333333333,1,2
+"109","SM Katich",0,237,"21-Aug-75","Left_Hand","Slow left-arm chinaman","Australia",11,21.5454545454545,0,4,1
+"110","JR Hopes",14,417,"24-Oct-78","Right_Hand","Right-arm medium","Australia",21,19.8571428571429,0.666666666666667,3,2
+"111","ST Jayasuriya",13,768,"30-Jun-69","Left_Hand","Slow left-arm orthodox","Sri Lanka",30,25.6,0.433333333333333,4,2
+"112","CJ Jordan",11,3,"4-Oct-88","Right_Hand","Right-arm fast-medium","England",10,0.3,1.1,1,3
+"113","Bipul Sharma",14,156,"28-Sep-83","Left_Hand","Slow left-arm orthodox","India",33,4.72727272727273,0.424242424242424,1,2
+"114","CK Kapugedera",0,16,"24-Feb-87","Right_Hand","Right-arm medium","Sri Lanka",5,3.2,0,1,1
+"115","MN Samuels",0,132,"5-Feb-81","Right_Hand","Right-arm offbreak","West Indies",15,8.8,0,2,1
+"116","SN Thakur",1,7,"16-Oct-91","Right_Hand","Right-arm medium","India",13,0.538461538461538,0.0769230769230769,1,1
+"117","F du Plessis",0,1287,"13-Jul-84","Right_Hand","Legbreak","South Africa",53,24.2830188679245,0,4,1
+"118","WPUJC Vaas",18,81,"27-Jan-74","Left_Hand","Left-arm fast-medium","Sri Lanka",13,6.23076923076923,1.38461538461538,1,4
+"119","Anirudh Singh",0,63,"2-Aug-80","Left_Hand","Right-arm medium","India",5,12.6,0,2,1
+"120","A Ashish Reddy",4,280,"24-Feb-91","Right_Hand","Right-arm medium","India",31,9.03225806451613,0.129032258064516,2,1
+"121","JA Morkel",71,975,"10-Jun-81","Left_Hand","Right-arm medium-fast","South Africa",91,10.7142857142857,0.78021978021978,2,2
+"122","V Sehwag",6,2728,"20-Oct-78","Right_Hand","Right-arm offbreak","India",104,26.2307692307692,0.0576923076923077,4,1
+"123","DJ Hussey",5,1322,"15-Jul-77","Right_Hand","Right-arm offbreak","Australia",64,20.65625,0.078125,3,1
+"124","S Rana",0,91,"18-Sep-84","Right_Hand","Right-arm medium-fast","India",11,8.27272727272727,0,2,1
+"125","DE Bollinger",30,21,"24-Jul-81","Left_Hand","Left-arm fast-medium","Australia",27,0.777777777777778,1.11111111111111,1,3
+"126","Ankit Sharma",8,62,"20-Apr-91","Left_Hand","Slow left-arm orthodox","India",21,2.95238095238095,0.380952380952381,1,1
+"127","SM Boland",2,0,"11-Apr-89","Right_Hand","Right-arm fast-medium","Australia",2,0,1,1,3
+"128","RR Pant",0,198,"4-Oct-97","Left_Hand","NULL","India",24,8.25,0,2,1
+"129","AD Mascarenhas",12,79,"30-Oct-77","Right_Hand","Right-arm fast-medium","England",13,6.07692307692308,0.923076923076923,1,3
+"130","KA Pollard",37,1959,"12-May-87","Right_Hand","Right-arm medium-fast","West Indies",123,15.9268292682927,0.300813008130081,3,1
+"131","DR Smith",22,2146,"12-Apr-83","Right_Hand","Right-arm medium","West Indies",91,23.5824175824176,0.241758241758242,4,1
+"132","P Suyal",2,0,"15-Oct-89","Right_Hand","Left-arm medium","India",5,0,0.4,1,1
+"133","MM Patel",55,39,"12-Jul-83","Right_Hand","Right-arm medium-fast","India",63,0.619047619047619,0.873015873015873,1,3
+"134","A Nel",1,0,"15-Jul-77","Right_Hand","Right-arm fast-medium","South Africa",1,0,1,1,3
+"135","F Behardien",0,14,"9-Oct-83","Right_Hand","Right-arm fast-medium","South Africa",3,4.66666666666667,0,1,1
+"136","M Vijay",0,2511,"1-Apr-84","Right_Hand","Right-arm offbreak","India",100,25.11,0,4,1
+"137","Sohail Tanvir",22,36,"12-Dec-84","Left_Hand","Left-arm medium-fast","Pakistan",11,3.27272727272727,2,1,5
+"138","JH Kallis",44,2427,"16-Oct-75","Right_Hand","Right-arm fast-medium","South Africa",98,24.765306122449,0.448979591836735,4,2
+"139","Kuldeep Yadav",6,0,"14-Dec-94","Left_Hand","Slow left-arm chinaman","India",15,0,0.4,1,1
+"140","WA Mota",4,56,"20-Sep-81","Right_Hand","Right-arm medium","India",12,4.66666666666667,0.333333333333333,1,1
+"141","AT Rayudu",0,2325,"23-Sep-85","Right_Hand","Right-arm offbreak","India",114,20.3947368421053,0,3,1
+"142","VVS Laxman",0,282,"1-Nov-74","Right_Hand","Right-arm offbreak","India",20,14.1,0,3,1
+"143","SB Styris",8,131,"10-Jul-75","Right_Hand","Right-arm medium","New Zealand",12,10.9166666666667,0.666666666666667,2,2
+"144","DP Vijaykumar",4,1,"20-Oct-86","Right_Hand","Right-arm medium","India",9,0.111111111111111,0.444444444444444,1,2
+"145","A Singh",18,2,"21-Jun-81","Right_Hand","Right-arm medium-fast","India",23,0.0869565217391304,0.782608695652174,1,2
+"146","MK Tiwary",1,1324,"14-Nov-85","Right_Hand","Legbreak googly","India",93,14.2365591397849,0.010752688172043,3,1
+"147","Anureet Singh",17,18,"2-Mar-88","Right_Hand","Right-arm medium","India",20,0.9,0.85,1,3
+"148","B Laughlin",0,4,"3-Oct-82","Right_Hand","Right-arm fast-medium","Australia",2,2,0,1,1
+"149","MF Maharoof",27,177,"7-Sep-84","Right_Hand","Right-arm fast-medium","India",20,8.85,1.35,2,4
+"150","AF Milne",1,0,"13-Apr-92","Right_Hand","Right-arm fast","New Zealand",5,0,0.2,1,1
+"151","Gagandeep Singh",3,0,"3-Oct-81","Right_Hand","Right-arm medium-fast","India",4,0,0.75,1,2
+"152","TG Southee",19,47,"11-Dec-88","Right_Hand","Right-arm medium-fast","New Zealand",29,1.62068965517241,0.655172413793103,1,2
+"153","PM Sarvesh Kumar",1,1,"26-Apr-89","Right_Hand","Right-arm medium","India",2,0.5,0.5,1,2
+"154","IC Pandey",18,0,"15-Aug-89","Right_Hand","Right-arm medium","India",25,0,0.72,1,2
+"155","HM Amla",0,157,"31-Mar-83","Right_Hand","Right-arm offbreak","South Africa",16,9.8125,0,2,1
+"156","V Kohli",4,4105,"5-Nov-88","Right_Hand","Right-arm medium","India",149,27.5503355704698,0.0268456375838926,4,1
+"157","M Manhas",0,514,"12-Oct-79","Right_Hand","Right-arm offbreak","India",55,9.34545454545455,0,2,1
+"158","RG More",1,2,"2-Feb-92","Right_Hand","Right-arm medium","India",2,1,0.5,1,2
+"159","MR Marsh",16,225,"20-Oct-91","Right_Hand","Right-arm medium","Australia",20,11.25,0.8,2,2
+"160","LA Carseldine",1,81,"17-Nov-75","Left_Hand","Left-arm medium","Australia",5,16.2,0.2,3,1
+"161","AJ Finch",0,1304,"17-Nov-86","Right_Hand","Slow left-arm orthodox","Australia",65,20.0615384615385,0,3,1
+"162","SR Watson",73,2553,"17-Jun-81","Right_Hand","Right-arm fast-medium","Australia",102,25.0294117647059,0.715686274509804,4,2
+"163","ND Doshi",2,0,"6-Oct-78","Right_Hand","Slow left-arm orthodox","India",4,0,0.5,1,2
+"164","M Ashwin",7,0,"8-Sep-90","Right_Hand","Legbreak googly","India",10,0,0.7,1,2
+"165","P Amarnath",7,0,"1-Jun-82","Right_Hand","Right-arm medium","India",6,0,1.16666666666667,1,3
+"166","CL White",1,971,"18-Aug-83","Right_Hand","Legbreak googly","Australia",47,20.6595744680851,0.0212765957446809,3,1
+"167","S Kaul",6,9,"19-May-90","Right_Hand","Right-arm medium","India",21,0.428571428571429,0.285714285714286,1,1
+"168","TM Dilshan",5,1153,"14-Oct-76","Right_Hand","Right-arm offbreak","Sri Lanka",52,22.1730769230769,0.0961538461538462,4,1
+"169","JC Buttler",0,255,"8-Sep-90","Right_Hand","NULL","England",24,10.625,0,2,1
+"170","SR Tendulkar",0,2329,"24-Apr-73","Right_Hand","Right-arm offbreak","India",78,29.8589743589744,0,5,1
+"171","KM Jadhav",0,626,"26-Mar-85","Right_Hand","Right-arm offbreak","India",64,9.78125,0,2,1
+"172","DT Christian",11,341,"4-May-83","Right_Hand","Right-arm fast-medium","Australia",36,9.47222222222222,0.305555555555556,2,1
+"173","JM Kemp",3,26,"2-Oct-77","Right_Hand","Right-arm fast-medium","South Africa",5,5.2,0.6,1,2
+"174","NL McCullum",0,26,"1-Sep-80","Right_Hand","Right-arm offbreak","New Zealand",2,13,0,2,1
+"175","B Akhil",6,76,"7-Oct-77","Right_Hand","Right-arm medium-fast","India",15,5.06666666666667,0.4,1,1
+"176","BMAJ Mendis",1,23,"15-Jan-83","Left_Hand","Legbreak","Sri Lanka",3,7.66666666666667,0.333333333333333,2,1
+"177","M de Lange",2,1,"13-Oct-90","Right_Hand","Right-arm fast","South Africa",5,0.2,0.4,1,1
+"178","SB Bangar",4,49,"11-Oct-72","Right_Hand","Right-arm medium-fast","India",12,4.08333333333333,0.333333333333333,1,1
+"179","IR Jaggi",0,43,"27-Jan-89","Right_Hand","Legbreak googly","India",7,6.14285714285714,0,1,1
+"180","DJ Muthuswami",4,1,"9-Mar-81","Right_Hand","Right-arm medium","India",6,0.166666666666667,0.666666666666667,1,2
+"181","LMP Simmons",1,942,"25-Jan-85","Right_Hand","Right-arm medium-fast","West Indies",29,32.4827586206897,0.0344827586206897,5,1
+"182","RE van der Merwe",20,159,"31-Dec-84","Right_Hand","Slow left-arm orthodox","South Africa",21,7.57142857142857,0.952380952380952,2,3
+"183","G Gambhir",0,3634,"14-Oct-81","Left_Hand","Legbreak","India",148,24.5540540540541,0,4,1
+"184","Y Nagar",4,285,"6-Jan-90","Right_Hand","Right-arm offbreak","India",26,10.9615384615385,0.153846153846154,2,1
+"185","MM Sharma",67,61,"18-Sep-88","Right_Hand","Right-arm medium","India",75,0.813333333333333,0.893333333333333,1,3
+"186","AG Paunikar",0,49,"18-Apr-88","Right_Hand","NULL","India",5,9.8,0,2,1
+"187","C Munro",0,30,"11-Mar-87","Left_Hand","Right-arm medium-fast","New Zealand",4,7.5,0,2,1
+"188","Sunny Singh",0,43,"18-Dec-86","Right_Hand","Right-arm medium-fast","India",6,7.16666666666667,0,2,1
+"189","R Bishnoi",0,19,"8-Oct-87","Right_Hand","Right-arm medium-fast","India",3,6.33333333333333,0,1,1
+"190","SE Bond",9,1,"7-Jun-75","Right_Hand","Right-arm fast","New Zealand",8,0.125,1.125,1,3
+"191","JEC Franklin",4,321,"7-Nov-80","Left_Hand","Left-arm medium","New Zealand",20,16.05,0.2,3,1
+"192","AM Salvi",7,0,"20-Oct-81","Right_Hand","Right-arm medium","India",7,0,1,1,3
+"193","GJ Maxwell",3,919,"14-Oct-88","Right_Hand","Right-arm offbreak","Australia",57,16.1228070175439,0.0526315789473684,3,1
+"194","JP Faulkner",42,473,"29-Apr-90","Right_Hand","Left-arm fast-medium","Australia",60,7.88333333333333,0.7,2,2
+"195","ML Hayden",0,1107,"29-Oct-71","Left_Hand","Right-arm medium","Australia",32,34.59375,0,5,1
+"196","M Muralitharan",48,20,"17-Apr-72","Right_Hand","Right-arm offbreak","Sri Lanka",66,0.303030303030303,0.727272727272727,1,2
+"197","Sachin Baby",2,122,"18-Dec-88","Left_Hand","Right-arm offbreak","India",18,6.77777777777778,0.111111111111111,1,1
+"198","Mohammad Asif",8,3,"20-Dec-82","Left_Hand","Right-arm fast-medium","Pakistan",8,0.375,1,1,3
+"199","A Uniyal",2,4,"21-Nov-81","Left_Hand","Left-arm medium","India",2,2,1,1,3
+"200","CJ Ferguson",0,98,"21-Nov-84","Right_Hand","Right-arm medium","Australia",9,10.8888888888889,0,2,1
+"201","Mohammed Shami",13,10,"3-Sep-90","Right_Hand","Right-arm fast-medium","India",31,0.32258064516129,0.419354838709677,1,2
+"202","T Thushara",8,12,"1-Mar-81","Left_Hand","Left-arm fast-medium","Sri Lanka",6,2,1.33333333333333,1,4
+"203","CJ McKay",0,8,"20-Feb-83","Right_Hand","Right-arm fast-medium","Australia",2,4,0,1,1
+"204","Mohammad Ashraful",0,2,"7-Jul-84","Right_Hand","Right-arm offbreak","Bangladesh",1,2,0,1,1
+"205","Y Gnaneswara Rao",0,19,"25-Aug-84","Right_Hand","Right-arm medium","India",2,9.5,0,2,1
+"206","DJG Sammy",11,295,"20-Dec-83","Right_Hand","Right-arm medium-fast","West Indies",22,13.4090909090909,0.5,2,2
+"207","KV Sharma",32,268,"23-Oct-87","Left_Hand","Legbreak googly","India",56,4.78571428571429,0.571428571428571,1,2
+"208","CA Ingram",0,21,"3-Jul-85","Left_Hand","Legbreak","South Africa",3,7,0,2,1
+"209","PD Collingwood",5,203,"26-May-76","Right_Hand","Right-arm medium","England",8,25.375,0.625,4,2
+"210","AD Mathews",19,692,"2-Jun-87","Right_Hand","Right-arm fast-medium","Sri Lanka",49,14.1224489795918,0.387755102040816,3,1
+"211","SS Sarkar",1,0,"15-Dec-84","Right_Hand","Right-arm medium","India",2,0,0.5,1,2
+"212","S Gopal",7,14,"4-Sep-93","Right_Hand","Legbreak","India",6,2.33333333333333,1.16666666666667,1,3
+"213","SP Narine",50,47,"26-May-88","Left_Hand","Right-arm offbreak","West Indies",82,0.573170731707317,0.609756097560976,1,2
+"214","KK Cooper",14,116,"16-Feb-89","Right_Hand","Right-arm medium","West Indies",25,4.64,0.56,1,2
+"215","SL Malinga",120,81,"28-Aug-83","Right_Hand","Right-arm fast","Sri Lanka",110,0.736363636363636,1.09090909090909,1,3
+"216","AA Noffke",1,9,"30-Apr-77","Right_Hand","Right-arm fast-medium","Australia",1,9,1,2,3
+"217","Joginder Sharma",12,36,"23-Oct-83","Right_Hand","Right-arm fast-medium","India",16,2.25,0.75,1,2
+"218","S Sreesanth",36,34,"6-Feb-83","Right_Hand","Right-arm fast-medium","India",44,0.772727272727273,0.818181818181818,1,3
+"219","RR Sarwan",0,73,"23-Jun-80","Right_Hand","Legbreak","West Indies",4,18.25,0,3,1
+"220","NK Patel",0,121,"26-Mar-81","Left_Hand","NULL","India",9,13.4444444444444,0,2,1
+"221","Anand Rajan",4,0,"17-Apr-87","Right_Hand","Right-arm medium","India",8,0,0.5,1,2
+"222","Ishan Kishan",0,42,"18-Jul-98","Left_Hand","NULL","India",16,2.625,0,1,1
+"223","L Ronchi",0,34,"23-Apr-81","Right_Hand","NULL","Australia",5,6.8,0,1,1
+"224","Z Khan",75,113,"7-Oct-78","Right_Hand","Left-arm fast-medium","India",100,1.13,0.75,1,2
+"225","RR Bhatkal",0,0,"1-Sep-85","Right_Hand","Right-arm medium","India",1,0,0,1,1
+"226","D Kalyankrishna",2,3,"16-Dec-83","Right_Hand","Right-arm medium-fast","India",3,1,0.666666666666667,1,2
+"227","TM Srivastava",0,8,"7-Nov-89","Left_Hand","Right-arm medium","India",7,1.14285714285714,0,1,1
+"228","SM Harwood",3,9,"1-Mar-74","Right_Hand","Right-arm fast-medium","Australia",3,3,1,1,3
+"229","MS Gony",30,99,"4-Jan-84","Right_Hand","Right-arm medium","India",44,2.25,0.681818181818182,1,2
+"230","NLTC Perera",23,423,"3-Apr-89","Left_Hand","Right-arm medium-fast","Sri Lanka",37,11.4324324324324,0.621621621621622,2,2
+"231","RS Bopara",11,531,"4-May-85","Right_Hand","Right-arm medium","England",24,22.125,0.458333333333333,4,2
+"232","AA Bilakhia",0,69,"31-May-86","Right_Hand","Right-arm medium","India",7,9.85714285714286,0,2,1
+"233","UT Khawaja",0,127,"18-Dec-86","Left_Hand","Right-arm medium","Australia",6,21.1666666666667,0,4,1
+"234","DS Lehmann",0,18,"5-Feb-70","Left_Hand","Slow left-arm orthodox","Australia",2,9,0,2,1
+"235","LA Pomersbach",0,302,"28-Sep-84","Left_Hand","Right-arm offbreak","Australia",17,17.7647058823529,0,3,1
+"236","C Madan",0,15,"15-Oct-82","Right_Hand","NULL","India",1,15,0,3,1
+"237","MS Bisla",0,798,"27-Dec-84","Right_Hand","NULL","India",39,20.4615384615385,0,3,1
+"238","Yashpal Singh",0,47,"27-Nov-81","Right_Hand","Right-arm medium","India",8,5.875,0,1,1
+"239","GR Napier",1,15,"6-Jan-80","Right_Hand","Right-arm medium","England",1,15,1,3,3
+"240","NJ Rimmington",0,1,"11-Nov-82","Right_Hand","Right-arm fast-medium","Australia",1,1,0,1,1
+"241","JD Unadkat",27,3,"18-Oct-91","Right_Hand","Left-arm medium","India",47,0.0638297872340425,0.574468085106383,1,2
+"242","RR Rossouw",0,53,"9-Oct-89","Left_Hand","Right-arm offbreak","South Africa",5,10.6,0,2,1
+"243","RR Powar",13,67,"20-May-78","Right_Hand","Right-arm offbreak","India",27,2.48148148148148,0.481481481481481,1,2
+"244","AS Raut",0,194,"3-Mar-87","Right_Hand","Legbreak googly","India",22,8.81818181818182,0,2,1
+"245","DPMD Jayawardene",0,1808,"27-May-77","Right_Hand","Right-arm medium","Sri Lanka",80,22.6,0,4,1
+"246","DR Martyn",0,19,"21-Oct-71","Right_Hand","Right-arm medium","Australia",1,19,0,3,1
+"247","AG Murtaza",9,10,"1-Jan-90","Left_Hand","Slow left-arm orthodox","India",12,0.833333333333333,0.75,1,2
+"248","I Sharma",50,37,"2-Sep-88","Right_Hand","Right-arm fast-medium","India",76,0.486842105263158,0.657894736842105,1,2
+"249","MV Boucher",0,394,"3-Dec-76","Right_Hand","Right-arm medium","South Africa",31,12.7096774193548,0,2,1
+"250","Swapnil Singh",0,0,"22-Jan-91","Right_Hand","Slow left-arm orthodox","India",5,0,0,1,1
+"251","BR Dunk",0,40,"11-Mar-87","Left_Hand","NULL","Australia",3,13.3333333333333,0,2,1
+"252","BB Samantray",0,125,"14-Dec-88","Right_Hand","NULL","India",9,13.8888888888889,0,3,1
+"253","VS Malik",6,7,"9-May-83","Right_Hand","Right-arm medium","India",13,0.538461538461538,0.461538461538462,1,2
+"254","RS Gavaskar",0,2,"20-Feb-76","Left_Hand","Slow left-arm orthodox","India",2,1,0,1,1
+"255","AP Dole",5,34,"9-Oct-87","Right_Hand","Right-arm medium-fast","India",3,11.3333333333333,1.66666666666667,2,5
+"256","TL Suman",6,676,"15-Dec-83","Right_Hand","Right-arm offbreak","India",43,15.7209302325581,0.13953488372093,3,1
+"257","KP Appanna",3,2,"20-Dec-88","Right_Hand","Slow left-arm orthodox","India",14,0.142857142857143,0.214285714285714,1,1
+"258","Sandeep Sharma",54,19,"18-May-93","Right_Hand","Right-arm medium","India",56,0.339285714285714,0.964285714285714,1,3
+"259","GJ Bailey",0,663,"7-Sep-82","Right_Hand","Right-arm medium","Australia",40,16.575,0,3,1
+"260","PJ Cummins",2,0,"8-May-93","Right_Hand","Right-arm fast","Australia",16,0,0.125,1,1
+"261","MA Khote",2,24,"22-Apr-80","Right_Hand","Right-arm medium","India",4,6,0.5,1,2
+"262","A Nehra",81,41,"29-Apr-79","Right_Hand","Left-arm medium-fast","India",88,0.465909090909091,0.920454545454545,1,3
+"263","M Vohra",0,728,"18-Jul-93","Right_Hand","Right-arm medium","India",45,16.1777777777778,0,3,1
+"264","S Vidyut",1,145,"3-Dec-81","Left_Hand","Slow left-arm orthodox","India",9,16.1111111111111,0.111111111111111,3,1
+"265","DJ Hooda",4,295,"19-Apr-95","Right_Hand","Right-arm offbreak","India",41,7.19512195121951,0.0975609756097561,2,1
+"266","PSP Handscomb",0,6,"26-Apr-91","Right_Hand","NULL","Australia",2,3,0,1,1
+"267","AN Ahmed",12,36,"5-Nov-88","Right_Hand","Right-arm medium-fast","India",17,2.11764705882353,0.705882352941177,1,2
+"268","SK Trivedi",46,42,"4-Sep-82","Right_Hand","Right-arm medium","India",76,0.552631578947368,0.605263157894737,1,2
+"269","N Saini",0,140,"28-Oct-88","Right_Hand","NULL","India",10,14,0,3,1
+"270","A Kumble",45,35,"17-Oct-70","Right_Hand","Legbreak googly","India",42,0.833333333333333,1.07142857142857,1,3
+"271","CA Pujara",0,390,"25-Jan-88","Right_Hand","Legbreak","India",30,13,0,2,1
+"272","Shoaib Malik",2,52,"1-Feb-82","Right_Hand","Right-arm offbreak","Pakistan",7,7.42857142857143,0.285714285714286,2,1
+"273","S Dhawan",1,3082,"5-Dec-85","Left_Hand","Right-arm offbreak","India",127,24.2677165354331,0.0078740157480315,4,1
+"274","RS Sodhi",0,4,"18-Oct-80","Right_Hand","Right-arm medium","India",3,1.33333333333333,0,1,1
+"275","L Ablish",3,0,"3-Dec-82","Right_Hand","Right-arm medium-fast","India",3,0,1,1,3
+"276","ER Dwivedi",0,24,"22-Jul-88","Right_Hand","NULL","India",4,6,0,1,1
+"277","GS Sandhu",1,0,"14-Jun-93","Left_Hand","Right-arm fast-medium","Australia",3,0,0.333333333333333,1,1
+"278","MDKJ Perera",0,14,"17-Aug-90","Left_Hand","NULL","Sri Lanka",2,7,0,2,1
+"279","RE Levi",0,83,"14-Jan-88","Right_Hand","Right-arm medium","South Africa",6,13.8333333333333,0,2,1
+"280","GC Smith",0,739,"1-Feb-81","Left_Hand","Right-arm offbreak","South Africa",29,25.4827586206897,0,4,1
+"281","B Kumar",69,154,"5-Feb-90","Right_Hand","Right-arm medium","India",90,1.71111111111111,0.766666666666667,1,2
+"282","SB Joshi",1,6,"6-Jun-70","Left_Hand","Slow left-arm orthodox","India",4,1.5,0.25,1,1
+"283","DNT Zoysa",2,11,"13-May-78","Left_Hand","Left-arm fast-medium","Sri Lanka",3,3.66666666666667,0.666666666666667,1,2
+"284","R Dravid",0,2170,"11-Jan-73","Right_Hand","Right-arm offbreak","India",89,24.3820224719101,0,4,1
+"285","PA Patel",0,1927,"9-Mar-85","Left_Hand","NULL","India",119,16.1932773109244,0,3,1
+"286","SV Samson",0,1040,"11-Nov-94","Right_Hand","NULL","India",66,15.7575757575758,0,3,1
+"287","NV Ojha",0,1474,"20-Jul-83","Right_Hand","NULL","India",112,13.1607142857143,0,2,1
+"288","BB Sran",14,4,"10-Dec-92","Left_Hand","Left-arm medium","India",16,0.25,0.875,1,3
+"289","CH Morris",33,285,"30-Apr-87","Right_Hand","Right-arm fast-medium","South Africa",48,5.9375,0.6875,1,2
+"290","T Kohli",0,11,"17-Dec-88","Right_Hand","Right-arm medium","India",4,2.75,0,1,1
+"291","S Kaushik",6,0,"7-Sep-95","Right_Hand","Slow left-arm chinaman","India",10,0,0.6,1,2
+"292","SS Mundhe",1,0,"27-Oct-88","Right_Hand","Right-arm medium","India",1,0,1,1,3
+"293","PP Ojha",76,16,"5-Sep-86","Left_Hand","Slow left-arm orthodox","India",92,0.173913043478261,0.826086956521739,1,3
+"294","VS Yeligati",0,2,"23-Apr-85","Right_Hand","Right-arm offbreak","India",2,1,0,1,1
+"295","Kamran Akmal",0,128,"13-Jan-82","Right_Hand","NULL","Pakistan",6,21.3333333333333,0,4,1
+"296","RV Uthappa",0,3390,"11-Nov-85","Right_Hand","Right-arm medium","India",149,22.751677852349,0,4,1
+"297","R Ninan",3,3,"19-Nov-85","Right_Hand","Right-arm offbreak","India",2,1.5,1.5,1,4
+"298","YV Takawale",0,192,"5-Nov-84","Right_Hand","NULL","India",16,12,0,2,1
+"299","LR Shukla",13,399,"6-May-81","Right_Hand","Right-arm medium","India",47,8.48936170212766,0.276595744680851,2,1
+"300","JW Hastings",3,0,"4-Nov-85","Right_Hand","Right-arm fast-medium","Australia",3,0,1,1,3
+"301","SMSM Senanayake",5,10,"9-Feb-85","Right_Hand","Right-arm offbreak","Sri Lanka",8,1.25,0.625,1,2
+"302","DJ Bravo",98,1262,"7-Oct-83","Right_Hand","Right-arm medium-fast","West Indies",106,11.9056603773585,0.924528301886792,2,3
+"303","MK Pandey",0,1827,"10-Sep-89","Right_Hand","Right-arm medium","India",103,17.7378640776699,0,3,1
+"304","KW Richardson",18,36,"12-Feb-91","Right_Hand","Right-arm fast-medium","Australia",14,2.57142857142857,1.28571428571429,1,4
+"305","SD Chitnis",2,99,"6-May-87","Right_Hand","Right-arm offbreak","India",11,9,0.181818181818182,2,1
+"306","RV Gomez",5,50,"16-Oct-85","Right_Hand","Right-arm medium","India",13,3.84615384615385,0.384615384615385,1,1
+"307","S Randiv",6,2,"30-Jan-85","Right_Hand","Right-arm offbreak","Sri Lanka",8,0.25,0.75,1,2
+"308","S Chanderpaul",0,25,"16-Aug-74","Left_Hand","Legbreak","West Indies",3,8.33333333333333,0,2,1
+"309","VY Mahesh",18,15,"21-Dec-87","Right_Hand","Right-arm medium-fast","India",18,0.833333333333333,1,1,3
+"310","TA Boult",10,0,"22-Jul-89","Right_Hand","Left-arm fast-medium","New Zealand",14,0,0.714285714285714,1,2
+"311","B Lee",15,124,"8-Nov-76","Right_Hand","Right-arm fast","Australia",38,3.26315789473684,0.394736842105263,1,1
+"312","M Klinger",0,73,"4-Jul-80","Right_Hand","NULL","Australia",4,18.25,0,3,1
+"313","KMDN Kulasekara",1,5,"22-Jul-82","Right_Hand","Right-arm fast-medium","Sri Lanka",6,0.833333333333333,0.166666666666667,1,1
+"314","K Santokie",3,0,"20-Dec-84","Left_Hand","Left-arm medium","West Indies",2,0,1.5,1,4
+"315","D Salunkhe",1,33,"12-Nov-82","Right_Hand","Legbreak","India",6,5.5,0.166666666666667,1,1
+"316","P Kumar",68,332,"2-Oct-86","Right_Hand","Right-arm medium","India",119,2.78991596638655,0.571428571428571,1,2
+"317","A Mishra",100,291,"24-Nov-82","Right_Hand","Legbreak","India",126,2.30952380952381,0.793650793650794,1,2
+"318","GD McGrath",12,4,"9-Feb-70","Right_Hand","Right-arm fast-medium","Australia",14,0.285714285714286,0.857142857142857,1,3
+"319","T Taibu",0,31,"14-May-83","Right_Hand","Right-arm medium","Zimbabwea",3,10.3333333333333,0,2,1
+"320","Harbhajan Singh",107,783,"3-Jul-80","Right_Hand","Right-arm offbreak","India",136,5.75735294117647,0.786764705882353,1,2
+"321","SS Shaikh",0,6,"18-Jan-87","Right_Hand","Right-arm medium","India",2,3,0,1,1
+"322","RJ Peterson",0,32,"4-Aug-79","Left_Hand","Slow left-arm orthodox","South Africa",5,6.4,0,1,1
+"323","A Chopra",0,53,"19-Sep-77","Right_Hand","Right-arm offbreak","India",7,7.57142857142857,0,2,1
+"324","HH Gibbs",0,886,"23-Feb-74","Right_Hand","Right-arm bowler","South Africa",36,24.6111111111111,0,4,1
+"325","IK Pathan",69,1148,"27-Oct-84","Left_Hand","Left-arm medium-fast","India",103,11.1456310679612,0.669902912621359,2,2
+"326","H Das",0,2,"10-Dec-86","Right_Hand","NULL","India",1,2,0,1,1
+"327","STR Binny",12,688,"3-Jun-84","Right_Hand","Right-arm medium","India",80,8.6,0.15,2,1
+"328","JO Holder",5,38,"5-Nov-91","Right_Hand","Right-arm medium-fast","West Indies",11,3.45454545454545,0.454545454545455,1,2
+"329","S Badrinath",0,1441,"30-Aug-80","Right_Hand","Right-arm offbreak","India",95,15.1684210526316,0,3,1
+"330","R Rampaul",9,51,"15-Oct-84","Left_Hand","Right-arm fast-medium","West Indies",12,4.25,0.75,1,2
+"331","SA Abbott",0,15,"29-Feb-92","Right_Hand","Right-arm fast-medium","New Zealand",2,7.5,0,2,1
+"332","A Flintoff",2,62,"6-Dec-77","Right_Hand","Right-arm fast-medium","England",3,20.6666666666667,0.666666666666667,3,2
+"333","SJ Srivastava",14,5,"22-Sep-81","Right_Hand","Left-arm fast-medium","India",14,0.357142857142857,1,1,3
+"334","JE Taylor",6,3,"22-Jun-84","Right_Hand","Right-arm fast","New Zealand",5,0.6,1.2,1,3
+"335","J Yadav",4,6,"22-Jan-90","Right_Hand","Right-arm offbreak","India",10,0.6,0.4,1,1
+"336","Shakib Al Hasan",31,499,"24-Mar-87","Left_Hand","Slow left-arm orthodox","Bangladesh",43,11.6046511627907,0.720930232558139,2,2
+"337","B Chipli",0,280,"27-Jan-83","Right_Hand","Right-arm medium","India",23,12.1739130434783,0,2,1
+"338","LJ Wright",2,106,"7-Mar-85","Right_Hand","Right-arm medium-fast","England",7,15.1428571428571,0.285714285714286,3,1
+"339","AC Gilchrist",1,2065,"14-Nov-71","Left_Hand","Right-arm offbreak","Australia",80,25.8125,0.0125,4,1
+"340","PA Reddy",0,164,"11-Feb-91","Right_Hand","Legbreak","India",12,13.6666666666667,0,2,1
+"341","DT Patil",0,13,"6-Dec-84","Right_Hand","NULL","India",2,6.5,0,1,1
+"342","BA Bhatt",10,6,"13-May-90","Left_Hand","Slow left-arm orthodox","India",17,0.352941176470588,0.588235294117647,1,2
+"343","TD Paine",0,10,"8-Dec-84","Right_Hand","Right-arm medium","Australia",2,5,0,1,1
+"344","D Wiese",16,127,"18-May-85","Right_Hand","Right-arm medium-fast","South Africa",15,8.46666666666667,1.06666666666667,2,3
+"345","KC Sangakkara",0,1687,"27-Oct-77","Left_Hand","Right-arm offbreak","Sri Lanka",71,23.7605633802817,0,4,1
+"346","CRD Fernando",17,4,"19-Jul-79","Right_Hand","Right-arm fast-medium","Sri Lanka",10,0.4,1.7,1,5
+"347","FH Edwards",5,4,"6-Feb-82","Right_Hand","Right-arm fast","West Indies",6,0.666666666666667,0.833333333333333,1,3
+"348","T Henderson",1,11,"1-Aug-74","Right_Hand","Right-arm fast-medium","South Africa",2,5.5,0.5,1,2
+"349","R Sathish",3,270,"14-Jan-81","Right_Hand","Right-arm medium","India",34,7.94117647058824,0.0882352941176471,2,1
+"350","NM Coulter-Nile",21,38,"11-Oct-87","Right_Hand","Right-arm fast","Australia",26,1.46153846153846,0.807692307692308,1,3
+"351","N Rana",0,104,"27-Dec-93","Left_Hand","Right-arm offbreak","India",17,6.11764705882353,0,1,1
+"352","SE Marsh",0,2225,"9-Jul-83","Left_Hand","Slow left-arm orthodox","Australia",71,31.3380281690141,0,5,1
+"353","I Malhotra",0,7,"23-May-84","Right_Hand","Right-arm medium-fast","India",1,7,0,2,1
+"354","DL Vettori",23,121,"27-Jan-79","Left_Hand","Slow left-arm orthodox","New Zealand",34,3.55882352941176,0.676470588235294,1,2
+"355","RN ten Doeschate",1,326,"30-Jun-80","Right_Hand","Right-arm medium-fast","Netherlands",29,11.2413793103448,0.0344827586206897,2,1
+"356","DB Das",0,304,"22-Sep-86","Right_Hand","Legbreak googly","India",31,9.80645161290323,0,2,1
+"357","KJ Abbott",2,13,"18-Jun-87","Right_Hand","Right-arm fast-medium","South Africa",5,2.6,0.4,1,1
+"358","KP Pietersen",7,1001,"27-Jun-80","Right_Hand","Right-arm offbreak","South Africa",36,27.8055555555556,0.194444444444444,5,1
+"359","S Tyagi",6,3,"17-Sep-87","Right_Hand","Right-arm medium","India",14,0.214285714285714,0.428571428571429,1,2
+"360","Gurkeerat Singh",5,342,"29-Jun-90","Right_Hand","Right-arm offbreak","India",30,11.4,0.166666666666667,2,1
+"361","M Morkel",50,126,"6-Oct-84","Left_Hand","Right-arm fast","South Africa",70,1.8,0.714285714285714,1,2
+"362","JP Duminy",22,1993,"14-Apr-84","Left_Hand","Right-arm offbreak","South Africa",77,25.8831168831169,0.285714285714286,4,1
+"363","S Aravind",40,27,"8-Apr-84","Left_Hand","Left-arm medium-fast","India",38,0.710526315789474,1.05263157894737,1,3
+"364","VH Zol",0,29,"23-Nov-94","Left_Hand","Right-arm offbreak","India",3,9.66666666666667,0,2,1
+"365","GB Hogg",13,22,"6-Feb-71","Left_Hand","Slow left-arm chinaman","Australia",21,1.04761904761905,0.619047619047619,1,2
+"366","RJ Quiney",0,103,"20-Aug-82","Left_Hand","Right-arm medium","Australia",7,14.7142857142857,0,3,1
+"367","Salman Butt",0,193,"7-Oct-84","Left_Hand","Right-arm offbreak","Pakistan",7,27.5714285714286,0,4,1
+"368","PV Tambe",28,18,"8-Oct-71","Right_Hand","Legbreak","India",33,0.545454545454545,0.848484848484849,1,3
+"369","JDP Oram",9,106,"28-Jul-78","Left_Hand","Right-arm fast-medium","New Zealand",18,5.88888888888889,0.5,1,2
+"370","SM Pollock",11,147,"16-Jul-73","Right_Hand","Right-arm fast-medium","South Africa",13,11.3076923076923,0.846153846153846,2,3
+"371","A Mukund",0,19,"6-Jan-90","Left_Hand","Legbreak googly","India",3,6.33333333333333,0,1,1
+"372","DJ Thornely",3,39,"1-Oct-78","Right_Hand","Right-arm medium","Australia",6,6.5,0.5,1,2
+"373","J Arunkumar",0,23,"18-Jan-75","Right_Hand","Right-arm offbreak","India",3,7.66666666666667,0,2,1
+"374","AP Tare",0,321,"7-Nov-87","Right_Hand","NULL","India",35,9.17142857142857,0,2,1
+"375","KAJ Roach",0,10,"30-Jun-88","Right_Hand","Right-arm fast","West Indies",2,5,0,1,1
+"376","S Sohal",0,368,"10-Nov-87","Right_Hand","Legbreak","India",22,16.7272727272727,0,3,1
+"377","AD Russell",30,574,"29-Apr-88","Right_Hand","Right-arm fast","West Indies",34,16.8823529411765,0.882352941176471,3,3
+"378","DP Nannes",24,4,"16-May-76","Right_Hand","Left-arm fast","Australia",29,0.137931034482759,0.827586206896552,1,3
+"379","MJ Lumb",0,278,"12-Feb-80","Left_Hand","Right-arm medium","England",12,23.1666666666667,0,4,1
+"380","R Sharma",24,66,"30-Apr-87","Right_Hand","Right-arm offbreak","India",44,1.5,0.545454545454545,1,2
+"381","RJ Harris",36,117,"11-Oct-79","Right_Hand","Right-arm fast","Australia",37,3.16216216216216,0.972972972972973,1,3
+"382","Iqbal Abdulla",34,83,"2-Dec-89","Left_Hand","Slow left-arm orthodox","India",49,1.69387755102041,0.693877551020408,1,2
+"383","T Shamsi",3,0,"18-Feb-90","Right_Hand","Slow left-arm chinaman","South Africa",4,0,0.75,1,2
+"384","SPD Smith",0,1241,"2-Jun-89","Right_Hand","Legbreak googly","India",69,17.9855072463768,0,3,1
+"385","Mustafizur Rahman",17,0,"6-Sep-95","Left_Hand","Left-arm fast-medium","Bangladesh",17,0,1,1,3
+"386","L Balaji",61,36,"27-Sep-81","Right_Hand","Right-arm medium-fast","India",73,0.493150684931507,0.835616438356164,1,3
+"387","JJ van der Wath",3,18,"10-Jan-78","Right_Hand","Right-arm medium-fast","South Africa",3,6,1,1,3
+"388","R Shukla",2,19,"28-Aug-90","Right_Hand","Right-arm medium","India",7,2.71428571428571,0.285714285714286,1,1
+"389","AA Jhunjhunwala",0,217,"1-Dec-82","Right_Hand","Right-arm offbreak","India",21,10.3333333333333,0,2,1
+"390","P Dogra",0,127,"19-Nov-84","Right_Hand","Legbreak","India",13,9.76923076923077,0,2,1
+"391","SP Fleming",0,196,"1-Apr-73","Left_Hand","NULL","New Zealand",10,19.6,0,3,1
+"392","CJ Anderson",5,379,"13-Dec-90","Left_Hand","Left-arm medium-fast","New Zealand",27,14.037037037037,0.185185185185185,3,1
+"393","A Mithun",7,34,"25-Oct-89","Right_Hand","Right-arm medium","India",16,2.125,0.4375,1,2
+"394","BB McCullum",0,2435,"27-Sep-81","Right_Hand","Right-arm medium","New Zealand",103,23.6407766990291,0,4,1
+"395","Pankaj Singh",4,7,"6-May-85","Right_Hand","Right-arm medium-fast","India",17,0.411764705882353,0.235294117647059,1,1
+"396","S Narwal",5,37,"16-Apr-82","Left_Hand","Right-arm medium","India",7,5.28571428571429,0.714285714285714,1,2
+"397","AB Barath",0,42,"14-Apr-90","Right_Hand","Right-arm offbreak","India",3,14,0,3,1
+"398","KH Pandya",6,237,"24-Mar-91","Left_Hand","Slow left-arm orthodox","India",25,9.48,0.24,2,1
+"399","M Ntini",7,11,"6-Jul-77","Right_Hand","Right-arm fast","South Africa",9,1.22222222222222,0.777777777777778,1,2
+"400","Sunny Gupta",0,0,"27-Sep-88","Right_Hand","Right-arm offbreak","India",1,0,0,1,1
+"401","SB Wagh",5,2,"9-Oct-88","Left_Hand","Left-arm medium-fast","India",8,0.25,0.625,1,2
+"402","AM Nayar",8,672,"8-Oct-83","Left_Hand","Right-arm medium","India",60,11.2,0.133333333333333,2,1
+"403","PP Chawla",101,513,"24-Dec-88","Left_Hand","Legbreak","India",129,3.97674418604651,0.782945736434108,1,2
+"404","DJ Harris",0,111,"31-Dec-79","Right_Hand","Right-arm medium","Australia",4,27.75,0,5,1
+"405","SA Asnodkar",0,423,"29-Mar-84","Right_Hand","Right-arm offbreak","India",20,21.15,0,4,1
+"406","A Chandila",4,4,"5-Dec-83","Right_Hand","Right-arm offbreak","India",12,0.333333333333333,0.333333333333333,1,1
+"407","Mashrafe Mortaza",0,2,"5-Oct-83","Right_Hand","Right-arm fast-medium","Bangladesh",1,2,0,1,1
+"408","Shoaib Ahmed",5,1,"17-Aug-90","Right_Hand","Right-arm fast-medium","Pakistan",8,0.125,0.625,1,2
+"409","JJ Bumrah",23,9,"6-Dec-93","Right_Hand","Right-arm medium","India",47,0.191489361702128,0.48936170212766,1,2
+"410","U Kaul",0,0,"2-Dec-87","Left_Hand","NULL","India",5,0,0,1,1
+"411","CR Brathwaite",7,83,"18-Jul-88","Right_Hand","Right-arm fast-medium","West Indies",10,8.3,0.7,2,2
+"412","Younis Khan",0,3,"29-Nov-77","Right_Hand","Right-arm medium","Pakistan",1,3,0,1,1
+"413","Abdur Razzak",0,0,"15-Jun-82","Left_Hand","Slow left-arm orthodox","Bangladesh",1,0,0,1,1
+"414","B Geeves",1,0,"13-Jun-82","Right_Hand","Right-arm fast-medium","Australia",2,0,0.5,1,2
+"415","Parvez Rasool",4,17,"13-Feb-89","Right_Hand","Right-arm offbreak","India",11,1.54545454545455,0.363636363636364,1,1
+"416","R Ashwin",79,231,"17-Sep-86","Right_Hand","Right-arm offbreak","India",111,2.08108108108108,0.711711711711712,1,2
+"417","J Syed Mohammad",6,29,"3-Jun-83","Left_Hand","Slow left-arm orthodox","India",11,2.63636363636364,0.545454545454545,1,2
+"418","SN Khan",0,177,"27-Oct-97","Right_Hand","Legbreak","India",18,9.83333333333333,0,2,1
+"419","AC Blizzard",0,120,"27-Jun-84","Left_Hand","Left-arm medium","Australia",7,17.1428571428571,0,3,1
+"420","AB Dinda",54,19,"25-Mar-84","Right_Hand","Right-arm medium-fast","India",78,0.243589743589744,0.692307692307692,1,2
+"421","LRPL Taylor",0,1017,"8-Mar-84","Right_Hand","Right-arm offbreak","New Zealand",55,18.4909090909091,0,3,1
+"422","Shahid Afridi",9,81,"1-Mar-80","Right_Hand","Legbreak googly","Pakistan",10,8.1,0.9,2,3
+"423","PC Valthaty",7,501,"7-Dec-83","Right_Hand","Right-arm medium","India",23,21.7826086956522,0.304347826086957,4,1
+"424","MN van Wyk",0,167,"20-Mar-79","Right_Hand","Slow left-arm orthodox","South Africa",5,33.4,0,5,1
+"425","D du Preez",4,10,"8-Nov-81","Right_Hand","Right-arm fast-medium","South Africa",2,5,2,1,5
+"426","DA Warner",0,3373,"27-Oct-86","Left_Hand","Legbreak","Australia",114,29.5877192982456,0,5,1
+"427","PR Shah",0,91,"3-Nov-87","Right_Hand","NULL","India",16,5.6875,0,1,1
+"428","SW Tait",16,23,"22-Feb-83","Right_Hand","Right-arm fast","Australia",21,1.0952380952381,0.761904761904762,1,2
+"429","SB Jakati",38,28,"27-Nov-80","Left_Hand","Slow left-arm orthodox","India",59,0.474576271186441,0.644067796610169,1,2
+"430","UBT Chand",0,300,"26-Mar-93","Right_Hand","Right-arm offbreak","India",21,14.2857142857143,0,3,1
+"431","SP Goswami",0,241,"18-May-89","Left_Hand","NULL","India",23,10.4782608695652,0,2,1
+"432","Mandeep Singh",0,924,"18-Dec-91","Right_Hand","Right-arm medium","India",70,13.2,0,2,1
+"433","KK Nair",0,877,"6-Dec-91","Right_Hand","Right-arm offbreak","India",55,15.9454545454545,0,3,1
+"434","MC Henriques",33,692,"1-Feb-87","Right_Hand","Right-arm fast-medium","Australia",57,12.140350877193,0.578947368421053,2,2
+"435","S Badree",2,0,"9-Mar-81","Right_Hand","Legbreak","West Indies",12,0,0.166666666666667,1,1
+"436","AS Rajpoot",3,2,"4-Dec-93","Right_Hand","Right-arm medium","India",11,0.181818181818182,0.272727272727273,1,1
+"437","JDS Neesham",1,42,"17-Sep-90","Left_Hand","Right-arm medium","New Zealand",4,10.5,0.25,2,1
+"438","J Theron",9,10,"24-Jul-85","Right_Hand","Right-arm medium-fast","South Africa",10,1,0.9,1,3
+"439","DS Kulkarni",67,89,"10-Dec-88","Right_Hand","Right-arm medium","India",72,1.23611111111111,0.930555555555556,1,3
+"440","VRV Singh",12,4,"17-Sep-84","Right_Hand","Right-arm medium-fast","India",19,0.210526315789474,0.631578947368421,1,2
+"441","OA Shah",0,506,"22-Oct-78","Right_Hand","Right-arm offbreak","England",23,22,0,4,1
+"442","W Jaffer",0,130,"16-Feb-78","Right_Hand","Right-arm offbreak","India",8,16.25,0,3,1
+"443","AP Majumdar",0,87,"30-Apr-84","Right_Hand","Legbreak googly","India",4,21.75,0,4,1
+"444","MS Wade",0,22,"26-Dec-87","Left_Hand","Right-arm medium","Australia",3,7.33333333333333,0,2,1
+"445","YK Pathan",36,2779,"17-Nov-82","Right_Hand","Right-arm offbreak","India",149,18.6510067114094,0.241610738255034,3,1
+"446","R Vinay Kumar",71,304,"12-Feb-84","Right_Hand","Right-arm medium","India",103,2.95145631067961,0.689320388349515,1,2
+"447","TM Head",0,54,"29-Dec-93","Left_Hand","Right-arm offbreak","Australia",10,5.4,0,1,1
+"448","BJ Haddin",0,18,"23-Oct-77","Right_Hand","NULL","Australia",1,18,0,3,1
+"449","BE Hendricks",9,1,"8-Jun-90","Left_Hand","Left-arm fast-medium","South Africa",7,0.142857142857143,1.28571428571429,1,4
+"450","BAW Mendis",7,3,"11-Mar-85","Right_Hand","Right-arm offbreak","Sri Lanka",10,0.3,0.7,1,2
+"451","UT Yadav",48,133,"25-Oct-87","Right_Hand","Right-arm fast-medium","India",94,1.41489361702128,0.51063829787234,1,2
+"452","NJ Maddinson",0,20,"21-Dec-91","Left_Hand","Slow left-arm orthodox","Australia",3,6.66666666666667,0,1,1
+"453","MA Agarwal",0,788,"16-Feb-91","Right_Hand","NULL","India",53,14.8679245283019,0,3,1
+"454","Q de Kock",0,726,"17-Dec-92","Left_Hand","NULL","South Africa",26,27.9230769230769,0,5,1
